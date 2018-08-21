@@ -1,0 +1,16 @@
+{
+  "name": "tommyknocker/bootstrap4-glyphicons",
+  "description": "Bootstrap 4 glyphicons support",
+  "version": "master",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tommyknocker",
+      "email": "me@isfrom.space",
+      "homepage": "https://isfrom.space",
+      "role": "Developer"
+    }
+  ]
+}
+
