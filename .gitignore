@@ -53,3 +53,4 @@ packages/**
 *.resharper
 *.ncrunch*
 *.ndproj
+.idea
