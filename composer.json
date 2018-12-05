@@ -1,14 +1,14 @@
 {
-  "name": "tommyknocker/bootstrap4-glyphicons",
+  "name": "police666/bootstrap4-glyphicons",
   "description": "Bootstrap 4 glyphicons support",
   "version": "master",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
-      "name": "Tommyknocker",
-      "email": "me@isfrom.space",
-      "homepage": "https://isfrom.space",
+      "name": "Police",
+      "email": "plotnik-sergey@yandex.ru",
+      "homepage": "https://github.com/Police666",
       "role": "Developer"
     }
   ]
